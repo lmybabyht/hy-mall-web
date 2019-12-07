@@ -1,4 +1,4 @@
-# ht-mall-web
+# hy-mall-web
 
 ## Project setup
 ```
