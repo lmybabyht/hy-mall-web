@@ -1,4 +1,4 @@
-# ht-eval-web
+# hy-mall-web
 
 ## Project setup
 ```
